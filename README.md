@@ -102,4 +102,4 @@ Feel free to open issues or create PRs. When adding new components, update this 
 
 ## License
 
-This project currently has no license file. Add one if you plan to open-source the code.
+This project currently has no license file.
